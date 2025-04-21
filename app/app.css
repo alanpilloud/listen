@@ -13,3 +13,15 @@ body {
     color-scheme: dark;
   }
 }
+
+h1 {
+  @apply text-5xl font-semibold;
+}
+
+h2 {
+  @apply text-4xl font-semibold;
+}
+
+.panel {
+  @apply bg-gray-50 p-4 rounded-md;
+}

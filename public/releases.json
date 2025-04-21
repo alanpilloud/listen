@@ -1,0 +1,19 @@
+[
+  {
+    "id": "7340f3ef-02d2-4968-8ade-d4f324b5adc4",
+    "type": "ep",
+    "artist_id": "cceee00d-fd63-4f43-b19e-6ba5abe73278",
+    "title": "Vol 1.",
+    "date": "20240927",
+    "cover_image_url": "/juste_une_fois.jpg",
+    "supporter_ids": [
+      "58f93ac1-d8f1-412b-8bd3-3bca762cda92",
+      "585d824f-8ad7-4b48-88c1-80fc4646bfd5",
+      "1068ea85-13a7-40b9-ab3b-faa341efbf16",
+      "3274a939-9702-4ea6-9f35-32bc489971bf",
+      "b9fb29e1-5bda-4c68-9751-c29861904cc3",
+      "f0eaaba3-2de5-438d-be16-16b51b6e7d8c",
+      "9a7c3c60-79eb-4c73-b9e0-32dee3f9facf"
+    ]
+  }
+]

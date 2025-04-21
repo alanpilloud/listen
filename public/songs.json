@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8322108c-da3d-48bc-8d6f-891fe09a9a54",
+    "artist_id": "cceee00d-fd63-4f43-b19e-6ba5abe73278",
+    "release_id": "7340f3ef-02d2-4968-8ade-d4f324b5adc4",
+    "order": 1,
+    "title": "Hopeithelps",
+    "audio_url": "https://cms.justeunefois.ch/storage/audio/HOPETHISHELPS_JUF_27092024_V1.wav",
+    "duration": "72:00",
+    "contributor_artist_ids": [
+      "e0ec1741-7dbb-45db-863b-1e73b87afadf"
+    ]
+  },
+  {
+    "id": "6e5d4d59-f7e7-4bbd-989a-cf6c8387f6b1",
+    "artist_id": "cceee00d-fd63-4f43-b19e-6ba5abe73278",
+    "release_id": "7340f3ef-02d2-4968-8ade-d4f324b5adc4",
+    "order": 2,
+    "title": "CryoNavigator",
+    "audio_url": "https://cms.justeunefois.ch/storage/audio/CRYONAVIGATOR_JUF_27092024_V1.wav",
+    "duration": "1:02:25",
+    "contributor_artist_ids": [
+      "14489780-f5a9-4ad9-b597-ea47a81c7580"
+    ]
+  },
+  {
+    "id": "d2f52d43-d2e0-47b2-a669-dbb9c8436039",
+    "artist_id": "cceee00d-fd63-4f43-b19e-6ba5abe73278",
+    "release_id": "7340f3ef-02d2-4968-8ade-d4f324b5adc4",
+    "order": 3,
+    "title": "Photosynthetiq",
+    "audio_url": "https://cms.justeunefois.ch/storage/audio/PHOTOSYNTHETIQ_JUF_27092024_V1.wav",
+    "duration": "41:35",
+    "contributor_artist_ids": [
+      "550c8817-fdff-45e5-81f6-9a4e745fa3b1"
+    ]
+  },
+  {
+    "id": "c25920bd-6220-4097-a4a2-2f970a7cb7ab",
+    "artist_id": "cceee00d-fd63-4f43-b19e-6ba5abe73278",
+    "release_id": "7340f3ef-02d2-4968-8ade-d4f324b5adc4",
+    "order": 4,
+    "title": "T H E W H I S K E R S",
+    "audio_url": "https://cms.justeunefois.ch/storage/audio/THEWHISKERS_JUF_27092024_V1.wav",
+    "duration": "1:53:47",
+    "contributor_artist_ids": [
+      "f86eecde-9d44-4436-905d-a87bc076ddfd"
+    ]
+  }
+]

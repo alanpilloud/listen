@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cceee00d-fd63-4f43-b19e-6ba5abe73278",
+    "name": "Juste Une Fois",
+    "profile_image_url": "/juste_une_fois.jpg",
+    "biography": "Juste Une Fois propose des événements rares et conçus pour ceux qui cherchent à vivre l'instant présent. 💎\nChaque édition présente une sélection d'artistes de musique électronique de la région lausannoise."
+  },
+  {
+    "id": "14489780-f5a9-4ad9-b597-ea47a81c7580",
+    "name": "Cryo Navigator",
+    "profile_image_url": "https://placehold.co/400",
+    "biography": ""
+  },
+  {
+    "id": "550c8817-fdff-45e5-81f6-9a4e745fa3b1",
+    "name": "Photosynthetiq",
+    "profile_image_url": "https://placehold.co/400",
+    "biography": ""
+  },
+  {
+    "id": "e0ec1741-7dbb-45db-863b-1e73b87afadf",
+    "name": "HopeThisHelps",
+    "profile_image_url": "https://placehold.co/400",
+    "biography": ""
+  },
+  {
+    "id": "f86eecde-9d44-4436-905d-a87bc076ddfd",
+    "name": "T H E W H I S K E R S",
+    "profile_image_url": "https://placehold.co/400",
+    "biography": ""
+  }
+]

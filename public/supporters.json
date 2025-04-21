@@ -1,0 +1,44 @@
+[
+    {
+        "id": "58f93ac1-d8f1-412b-8bd3-3bca762cda92",
+        "name": "ShiverLand Productions",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.shiverlandproduction.com/"
+    },
+    {
+        "id": "585d824f-8ad7-4b48-88c1-80fc4646bfd5",
+        "name": "MSJ Live",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.msjlive.ch/"
+    },
+    {
+        "id": "1068ea85-13a7-40b9-ab3b-faa341efbf16",
+        "name": "MSJ Production",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.msj-production.ch/"
+    },
+    {
+        "id": "3274a939-9702-4ea6-9f35-32bc489971bf",
+        "name": "Eventissima 365",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.facebook.com/profile.php?id=100087607729066"
+    },
+    {
+        "id": "b9fb29e1-5bda-4c68-9751-c29861904cc3",
+        "name": "Le Bureau Web",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.bureauweb.ch/"
+    },
+    {
+        "id": "f0eaaba3-2de5-438d-be16-16b51b6e7d8c",
+        "name": "Flexstart.ch",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.flexstart.ch/"
+    },
+    {
+        "id": "9a7c3c60-79eb-4c73-b9e0-32dee3f9facf",
+        "name": "Studio60",
+        "profile_image_url": "/juste_une_fois.jpg",
+        "website_url": "https://www.studio60.ch/"
+    }
+]
