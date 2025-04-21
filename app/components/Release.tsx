@@ -18,42 +18,42 @@ export function Release({ artist, release, songs = [] }: ReleaseProps) {
 
   return (
     <div className="my-16">
-      <div className="flex gap-4 mb-4">
+      <div className="flex gap-4 mb-4 border-b pb-4 border-gray-200">
         <img
           alt={release.title}
-          className="size-36 rounded-xl"
+          className="size-24 md:size-36 rounded-xl"
           src={release.cover_image_url}
         />
         <div className="p-2">
           <h2>{release.title}</h2>
           <div>{release.date.substring(0, 4)}</div>
-          {supporters && (
-            <>
-              <h3 className="mt-2 text-sm">Sponsors</h3>
-              <div className="flex gap-1">
-                {supporters?.map((supporter) => (
-                  <React.Fragment key={supporter.id}>
-                    <a
-                      href={supporter.website_url}
-                      target="_blank"
-                      rel="noreferrer"
-                      data-tooltip-id={supporter.id}
-                      data-tooltip-content={supporter.name}
-                    >
-                      <img
-                        alt={supporter.name}
-                        src={supporter.profile_image_url}
-                        className="rounded-full size-12 object-cover"
-                      />
-                    </a>
-                    <Tooltip id={supporter.id} />
-                  </React.Fragment>
-                ))}
-              </div>
-            </>
-          )}
         </div>
       </div>
+      {supporters && (
+        <div className="my-4 pb-4 border-b border-gray-200">
+          <h3 className="mb-2">Sponsors</h3>
+          <div className="flex flex-wrap gap-1">
+            {supporters?.map((supporter) => (
+              <React.Fragment key={supporter.id}>
+                <a
+                  href={supporter.website_url}
+                  target="_blank"
+                  rel="noreferrer"
+                  data-tooltip-id={supporter.id}
+                  data-tooltip-content={supporter.name}
+                >
+                  <img
+                    alt={supporter.name}
+                    src={supporter.profile_image_url}
+                    className="rounded-full size-12 object-cover"
+                  />
+                </a>
+                <Tooltip id={supporter.id} />
+              </React.Fragment>
+            ))}
+          </div>
+        </div>
+      )}
       {songs.map((song, i) => (
         <Song
           key={song.id}

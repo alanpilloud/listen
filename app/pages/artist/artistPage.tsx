@@ -16,7 +16,7 @@ export function ArtistPage({
       <div className="flex gap-4 mb-4">
         <img
           alt={artist.name}
-          className="size-36 rounded-xl"
+          className="size-24 md:size-36 rounded-xl"
           src={artist.profile_image_url}
         />
         <div className="p-2">

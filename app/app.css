@@ -22,6 +22,10 @@ h2 {
   @apply text-4xl font-semibold;
 }
 
+h3 {
+  @apply text-xl font-semibold;
+}
+
 .panel {
   @apply bg-gray-50 p-4 rounded-md;
 }
